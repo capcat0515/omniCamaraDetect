@@ -1,0 +1,125 @@
+  omni190629.UIForm.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly omni_190629, Version=0.0.*, Culture=不因語言而異 (不因國別而異): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class omni190629.UIForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Byte* ShowPtr : Public
+    Byte* WorkPtrtemp : Public
+    Byte* WorkPtr : Public
+    Byte* Omni2DPtr : Public
+    Byte* Omni3DPtr : Public
+    Double h : Public
+    Double b : Public
+    Double c : Public
+    Double a : Public
+    Double zoom : Public
+    Double f : Public
+    Double point_len : Public
+    Double cosTheta : Public
+    Double sinTheta : Public
+    Double cosAlpha : Public
+    Double sinAlpha : Public
+    Double* NP_3D : Public
+    Double* M_3D : Public
+    Double* temp2D : Public
+    Double NP_Distance : Public
+    Int32 px : Public
+    Int32 py : Public
+    Int32* address1 : Public
+    Int32* address2 : Public
+    Int32* address_temp : Public
+    Int32 delayCountMaximum : Public
+    Int32 delayCount : Public
+    Int32 th1 : Public
+    ImageCenter.ImageMethod* imageMethod : Public
+    ImageCenter.threadSignal* threadSyncSignal : Public
+    Boolean boolImageProcessHaltRequest : Public
+    cv.Mat* redimg : Public
+    cv.Mat* element : Public
+    cv.Mat* blueImg : Public
+    cv.Mat* detectImg : Public
+    cv.Mat* data_pts_copy : Public
+    cv.Mat* sendphoneIMG : Public
+    System.Net.Sockets.SocketType sockType : Public
+    System.Net.Sockets.ProtocolType sockProtocol : Public
+    System.Net.IPAddress localAddress : Public
+    System.Net.IPEndPoint localEndPoint : Public
+    System.Net.IPEndPoint senderAddress : Public
+    System.Net.Sockets.Socket serverSocket : Public
+    System.Net.Sockets.Socket clientSocket : Public
+    System.Net.EndPoint castSenderAddress : Public
+    Byte[] sendBuffer : Public
+    Boolean boool : Public
+    System.String ssss : Public
+    Boolean camaraOpen : Public
+    Int32 camaraOpenN : Public
+    Int32 camaraNotOpenN : Public
+    nlohmann.basic_json<std::map\,std::vector\,std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,bool\,__int64\,unsigned __int64\,double\,std::allocator\,nlohmann::adl_serializer>* j : Public
+    std.vector<double\,std::allocator<double> >* Cx : Public
+    std.vector<double\,std::allocator<double> >* Cy : Public
+    std.vector<double\,std::allocator<double> >* Tx : Public
+    std.vector<double\,std::allocator<double> >* Ty : Public
+    std.vector<double\,std::allocator<double> >* V : Public
+    std.vector<double\,std::allocator<double> >* framRangeX : Public
+    std.vector<double\,std::allocator<double> >* framRangeY : Public
+    Int32* framX : Public
+    Int32* framY : Public
+    Int32 ssC : Public
+    Int32 countframe : Public
+    Int32 formatBufferIndex : Public
+    Int32* nowPosition : Public
+    Int32 nowPoint : Public
+    Int32 nowangle : Public
+    Int32* nextPosition : Public
+    Int32* carG : Public
+    Double Carsangle : Public
+    Double carDisSum : Public
+    Double carDisVarianceSum : Public
+    Double carAngleSum : Public
+    Double carAngleVarianceSum : Public
+    Double realdistance : Public
+    Double realangle : Public
+    Int32 framepage : Public
+    std.queue<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::deque<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> >\,std::allocator<std::basic_string<char\,std::char_traits<char>\,std::allocator<char> > > > >* queMessage : Public
+    Int32 portNumber : Public
+    Int32 clientNo : Public
+    System.Threading.Thread phoneC : Public
+    System.ComponentModel.BackgroundWorker bgwServer IsByValue : Public, InitOnly
+    System.Net.Sockets.TcpClient socketClient IsByValue : Public, InitOnly
+  Methods:
+    JackyConstructor(): PrivateScope, Public, HideBySig
+    FormatBuffer(Byte[], String): PrivateScope, Public, HideBySig
+    ConnectSocketThread(): PrivateScope, Public, HideBySig
+    phoneListeners(): PrivateScope, Public, HideBySig
+    carListeners(): PrivateScope, Public, HideBySig
+    ConnectMobileAndCar_CLR(): PrivateScope, Public, HideBySig
+    ConnectMobileAndCar(): PrivateScope, Public, HideBySig
+    oneD_To_twoD(Int32): PrivateScope, Public, HideBySig
+    pixel_to_mm_3D(): PrivateScope, Public, HideBySig
+    P3D_to_P2D(): PrivateScope, Public, HideBySig
+    mm_to_pixel_2D(): PrivateScope, Public, HideBySig
+    makeImg(): PrivateScope, Public, HideBySig
+    carLocation(): PrivateScope, Public, HideBySig
+    carCenter(): PrivateScope, Public, HideBySig
+    carCommand(): PrivateScope, Public, HideBySig
+    correctTheCar(): PrivateScope, Public, HideBySig
+    step1(Int32, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    step2(Int32, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    step3(Int32, Double, Double): PrivateScope, Public, HideBySig
+    FindPoint(Int32, Double, Double, Double, Double, Double, Double): PrivateScope, Public, HideBySig
+    Distance(Double, Double, Double, Double): PrivateScope, Public, HideBySig

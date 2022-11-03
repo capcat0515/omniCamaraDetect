@@ -1,0 +1,96 @@
+﻿  UIForm.cpp
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\flycapture2.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\flycapture2defs.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\error.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\camerabase.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\gigecamera.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\image.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\cameraheader2_7_3_17\utilities.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\pixel.h(107): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\pixel.h(108): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\pixel.h(109): warning C4244: '=': 將 'double' 轉換為 'unsigned char'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(686): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(687): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(688): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(1515): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(1516): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(1527): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(1528): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\localization.h(1555): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(749): warning C4101: 'v': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(749): warning C4101: 's': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(748): warning C4101: 'h': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(873): warning C4101: 'b': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(873): warning C4101: 'g': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(873): warning C4101: 'r': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(1322): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(1323): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(1347): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(2180): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(2182): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(2192): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(2194): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\jackyimagemethod\imagemethod.h(2250): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 請參閱 'fopen' 的宣告
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(220): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(221): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(235): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(254): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(231): warning C4101: 'scc': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(303): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(304): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(319): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(320): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(331): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(350): warning C4551: 函式呼叫遺漏引數清單
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(327): warning C4101: 'scc': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(416): warning C4474: 'printf': 傳遞給格式字串的引數太多
+  d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(416): note: 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(398): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 請參閱 'inet_addr' 的宣告
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(376): warning C4101: 'message': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(411): warning C4101: 'clinetAddr': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(379): warning C4101: 'DLLVSERION': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(729): warning C4965: 整數 0 的隱含 Box，請使用 nullptr 或明確轉換
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(729): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(621): warning C4101: 'count_offset': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(643): warning C4101: 'e': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(825): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(826): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(886): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(887): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(965): warning C4101: 'detectmaxComponents': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(984): warning C4101: 'maxComponents': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1086): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1162): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1196): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1308): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1309): warning C4244: 'return': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1263): warning C4101: 't_a': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1262): warning C4101: 't_d': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1269): warning C4101: 'y': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1269): warning C4101: 'x': 未參考的區域變數
+d:\專研程式\omni_190908\omni_190813\omni_190629\omni_190629\uiform.h(1397): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+c:\opencv34\opencv\build\include\opencv2\core\cvstd.hpp(575): warning C4793: 'cv::String::String': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: 'cv::cuda::GpuMat::GpuMat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: 'cv::cuda::HostMem::HostMem': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\mat.inl.hpp(561): warning C4793: 'cv::Mat::Mat': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\mat.inl.hpp(885): warning C4793: 'cv::Mat::release': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\mat.inl.hpp(2221): warning C4793: 'cv::SparseMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\mat.inl.hpp(3821): warning C4793: 'cv::UMat::addref': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+c:\opencv34\opencv\build\include\opencv2\core\cvstd.hpp(657): warning C4793: 'cv::String::operator=': 函式會編譯成機器碼:
+  	找到受控碼中不支援的內建
+  UIForm.obj : 發現 MSIL 模組。MSIL 的累加連結已停用。正在執行完整連結
+  omni_190629.vcxproj -> D:\專研程式\omni_190908\omni_190813\omni_190629\x64\Debug\omni_190629.exe
