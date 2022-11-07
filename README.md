@@ -5,5 +5,5 @@
   * 系統整合
 
 系統架構圖:
-  ![智慧型自動割草系統架構]()
+  ![智慧型自動割草系統架構](https://github.com/capcat0515/omniCamaraDetect/blob/omniCamara/images/system_structure.png)
 
