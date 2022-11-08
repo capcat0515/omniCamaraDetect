@@ -5,7 +5,7 @@
   * 系統整合與控制
 
 
-| 系統架構圖(紅色箭頭的部分) | 全景攝影機 | 全景攝影機成像原理 |
+| 系統架構圖 | 全景攝影機 | 全景攝影機成像原理 |
 |:-------:|:-----:|:------:|
 |  ![智慧型自動割草系統架構](https://github.com/capcat0515/omniCamaraDetect/blob/omniCamara/images/system_structure.png)  |  ![全景攝影機](https://github.com/capcat0515/omniCamaraDetect/blob/omniCamara/images/omniCamara.png)  |  ![全景攝影機成像原理](https://github.com/capcat0515/omniCamaraDetect/blob/omniCamara/images/omniCamaraToImage.png) |
 
